@@ -16,6 +16,12 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
     
 
 ## File Descriptions <a name="files"></a>
+- **calendar.csv**    &nbsp; *data to process*
+- **listings.csv**   &nbsp; *data to process*
+- **reviews.csv**    &nbsp; *data to process*
+- **Airbnb_seattle_analysis.ipynb** &nbsp; *analysis process are all in this file*
+- **README.md**
+
 
     
     
