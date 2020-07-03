@@ -19,9 +19,9 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
     
     
-## Results<a name="results"></a>
+## Results<a name="results"></a>     
 
-    
+The main findings of the code can be found at the post available [here](https://medium.com/@15526077/how-to-earn-first-2000-as-an-airbnb-host-b6c13d3cef74).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
